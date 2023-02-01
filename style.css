@@ -17,13 +17,8 @@ body {
     display: flex;
     flex-direction: column;
     gap: 50px;
-    padding: 10px 0px;
+    padding: 10px 20%;
     background-color: #1F2937;
-    align-items: center;
-}
-
-.top-section > * {
-    width: 1200px;
 }
 
 .header {
